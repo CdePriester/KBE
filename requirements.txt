@@ -1,0 +1,9 @@
+numpy==1.18.2
+OCC==7.3.0.0
+parapy==1.5.1
+parapy-lib-avl==1.1.4
+parapy-lib-cst==1.0.1
+parapy-lib-xfoil==1.0.1
+Pillow==7.0.0
+six==1.14.0
+wxPython==4.0.7.post2
