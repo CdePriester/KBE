@@ -1,7 +1,6 @@
 from Reader.wing import Wing
 from Reader.fuselage import Fuselage
 from Reader.engine import Engine
-
 from parapy.core import *
 
 
@@ -13,6 +12,8 @@ class Aircraft(Base):
     density = Input(1.225)
     speed = Input(120)
     n_engines = Input(4)
+
+    # Test how git works
 
     @Part
     def wing(self):
