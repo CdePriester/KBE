@@ -4,6 +4,6 @@ parapy==1.5.1
 parapy-lib-avl==1.1.4
 parapy-lib-cst==1.0.1
 parapy-lib-xfoil==1.0.1
-Pillow==7.0.0
+Pillow==10.0.1
 six==1.14.0
 wxPython==4.0.7.post2
